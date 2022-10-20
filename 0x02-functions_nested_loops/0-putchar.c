@@ -1,10 +1,10 @@
 #include "main.h"
-/**
- * main - print _putchar
- * is written by Thomas
- * Return: 0
- */
 
+/**
+ * main - Entry point
+ *
+ * Return: 0
+*/
 int main(void)
 {
 _putchar('_');
@@ -14,7 +14,7 @@ _putchar('t');
 _putchar('c');
 _putchar('h');
 _putchar('a');
-_putchar('r');
+_putcahr('r');
 _putchar('\n');
 return (0);
 }
