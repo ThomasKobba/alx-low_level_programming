@@ -1,10 +1,11 @@
 #include "main.h"
-
 /**
- * main - Entry point
- *this is written by thomas
+ * main - print _putchar
+ * this is byt thomas
  * Return: 0
-*/
+ */
+
+
 int main(void)
 {
 _putchar('_');
@@ -14,7 +15,9 @@ _putchar('t');
 _putchar('c');
 _putchar('h');
 _putchar('a');
-_putcahr('r');
+_putchar('r');
 _putchar('\n');
 return (0);
 }
+
+
