@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- *
+ *this is written by thomas
  * Return: 0
 */
 int main(void)
